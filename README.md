@@ -202,4 +202,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors to this project
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Akshay
